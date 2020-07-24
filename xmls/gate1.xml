@@ -1,7 +1,7 @@
 <annotation>
-	<folder>RoboAISimImages</folder>
-	<filename>1.png</filename>
-	<path>D:\Pictures\RoboAISimImages\1.png</path>
+	<folder>trimaps</folder>
+	<filename>gate1.png</filename>
+	<path>D:\Desktop\Random Datasets\Robosubdata\trimaps\gate1.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,8 +17,8 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>124</xmin>
-			<ymin>361</ymin>
+			<xmin>127</xmin>
+			<ymin>363</ymin>
 			<xmax>1052</xmax>
 			<ymax>842</ymax>
 		</bndbox>

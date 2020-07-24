@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trimaps</folder>
+	<filename>orangebuoy2.PNG</filename>
+	<path>D:\Desktop\Random Datasets\Robosubdata\trimaps\orangebuoy2.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1630</width>
+		<height>844</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange buoy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>539</xmin>
+			<ymin>228</ymin>
+			<xmax>1039</xmax>
+			<ymax>841</ymax>
+		</bndbox>
+	</object>
+</annotation>

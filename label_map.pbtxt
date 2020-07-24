@@ -1,0 +1,20 @@
+item {
+  name: "red buoy"
+  id: 1
+}
+item {
+  name: "blue buoy"
+  id: 2
+}
+item {
+  name: "orange buoy"
+  id: 3
+}
+item {
+  name: "green buoy"
+  id: 4
+}
+item {
+  name: "gate"
+  id: 5
+}

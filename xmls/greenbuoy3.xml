@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trimaps</folder>
+	<filename>greenbuoy3.PNG</filename>
+	<path>D:\Desktop\Random Datasets\Robosubdata\trimaps\greenbuoy3.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1633</width>
+		<height>844</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green buoy</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1207</xmin>
+			<ymin>225</ymin>
+			<xmax>1633</xmax>
+			<ymax>844</ymax>
+		</bndbox>
+	</object>
+</annotation>

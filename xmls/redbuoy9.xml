@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trimaps</folder>
+	<filename>redbuoy9.PNG</filename>
+	<path>D:\Desktop\Random Datasets\Robosubdata\trimaps\redbuoy9.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1638</width>
+		<height>833</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red buoy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>606</xmin>
+			<ymin>258</ymin>
+			<xmax>1006</xmax>
+			<ymax>758</ymax>
+		</bndbox>
+	</object>
+</annotation>

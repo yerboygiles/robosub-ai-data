@@ -1,13 +1,13 @@
 <annotation>
-	<folder>RoboAISimImages</folder>
-	<filename>4.png</filename>
-	<path>D:\Pictures\RoboAISimImages\4.png</path>
+	<folder>trimaps</folder>
+	<filename>greenbuoy4.PNG</filename>
+	<path>D:\Desktop\Random Datasets\Robosubdata\trimaps\greenbuoy4.PNG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1625</width>
-		<height>846</height>
+		<width>1619</width>
+		<height>843</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>680</xmin>
-			<ymin>336</ymin>
-			<xmax>989</xmax>
-			<ymax>715</ymax>
+			<xmin>760</xmin>
+			<ymin>348</ymin>
+			<xmax>950</xmax>
+			<ymax>585</ymax>
 		</bndbox>
 	</object>
 </annotation>

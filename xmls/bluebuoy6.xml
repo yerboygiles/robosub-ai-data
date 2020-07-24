@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trimaps</folder>
+	<filename>bluebuoy6.PNG</filename>
+	<path>D:\Desktop\Random Datasets\Robosubdata\trimaps\bluebuoy6.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1622</width>
+		<height>835</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue buoy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>546</xmin>
+			<ymin>329</ymin>
+			<xmax>781</xmax>
+			<ymax>616</ymax>
+		</bndbox>
+	</object>
+</annotation>
